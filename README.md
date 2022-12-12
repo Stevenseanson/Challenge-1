@@ -7,9 +7,9 @@ The purpose of this project is to refactor the Horiseon home webpage so it meets
 
 
 
-## Installation
+## Link
 
-N/A
+https://stevenseanson.github.io/Refactor-Challenge/
 
 ## Usage
 
@@ -22,3 +22,4 @@ Sean Stevenson
 ## License
 
 N/A
+
